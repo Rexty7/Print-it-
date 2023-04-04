@@ -128,11 +128,10 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
 /* Code CSS en prévision de l'ajout d'un carousel pour la bannière */
 /* Gestion des fleches du carrousel */
-#banner .arrow {
 
-}
 #banner .arrow_left {
 	margin-left: 40px;
 	

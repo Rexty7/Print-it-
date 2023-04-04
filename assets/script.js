@@ -19,7 +19,7 @@ const slides = [
 
 // Je créer la boucle des bulletpoint avec le for, la boucle commence a 0 et fait +1 a chaque tour, je crée la variable dot,
 // si i = 0 on lui attribut les classes dot et dot selected sinon on lui attribut juste la classe dot,
-// on selectionne la classe dots pour lui appenchild(crée un enfant) la variable dot(celle qui crée la span ligne 25),
+// on selectionne la classe dots pour lui appenchild(créer un enfant) la variable dot(celle qui crée la span ligne 25),
 
 for ( let i = 0; i < slides.length; i++) {
 	let dot = document.createElement("span"); 
